@@ -4,7 +4,7 @@
 
 🧠 - Atualmente estou cursando o bootcamp de Web Full Stack Development da Labenu(https://www.labenu.com.br/).
 
-👓 - Navegando por meus repositórios você encontrará alguns projetos do curso e até projetos paralelos que eu crio para exercitar conhecimentos e testas novas ferramentas.
+👓 - Navegando por meus repositórios você encontrará alguns projetos do curso e até projetos paralelos que eu crio para exercitar conhecimentos e testar novas ferramentas.
 
 💡 - O que costumo fazer:
 
