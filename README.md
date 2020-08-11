@@ -22,7 +22,9 @@ Typescript
 Unit Testing
 Firebase
 Jest
+
 2 - Automação com Arduino
+
 3 - Viajar✈, viajar🌍 e viajar muito!🪂
 
 📮 - Quer falar comigo? Estou a disposição lá no LinkedIn: https://www.linkedin.com/in/jailsom-nogueira
