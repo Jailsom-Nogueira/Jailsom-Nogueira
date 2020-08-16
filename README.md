@@ -23,7 +23,7 @@ Unit Testing
 Firebase
 Jest
 
-2 - Automação com Arduino
+2 - Automação com Arduino for fun
 
 3 - Viajar✈, viajar🌍 e viajar muito!🪂
 
