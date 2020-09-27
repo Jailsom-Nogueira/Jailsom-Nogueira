@@ -1,10 +1,10 @@
 ### Olá 👋
 
-
-
 😎 - Me chamo Jailsom Nogueira, mas pode me chamar de Jay.
 
 👓 - Navegando por meus repositórios você encontrará alguns projetos acadêmicos, projetos paralelos que eu crio para exercitar conhecimentos e testar novas ferramentas e algumas  contribuições para a comunidade.
+
+📚 - Desde 2012 trabalho com toda sorte de projetos web, desde aplicativos para facebook até automação com arduino, páginas wordpress a app mobile. Mas foi em 2020 que, depois de participar de um bootcamp de +1000 horas full stack expandi ainda mais meus horizontes, contando agora com expertise back end também 🙌.
 
 💡 - O que costumo fazer:
 
