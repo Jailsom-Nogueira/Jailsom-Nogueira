@@ -1,10 +1,10 @@
 ### Olá 👋
 
+
+
 😎 - Me chamo Jailsom Nogueira, mas pode me chamar de Jay.
 
-🧠 - Atualmente estou cursando o bootcamp de Web Full Stack Development da Labenu(https://www.labenu.com.br/).
-
-👓 - Navegando por meus repositórios você encontrará alguns projetos do curso e até projetos paralelos que eu crio para exercitar conhecimentos e testar novas ferramentas.
+👓 - Navegando por meus repositórios você encontrará alguns projetos acadêmicos, projetos paralelos que eu crio para exercitar conhecimentos e testar novas ferramentas e algumas  contribuições para a comunidade.
 
 💡 - O que costumo fazer:
 
