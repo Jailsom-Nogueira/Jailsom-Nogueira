@@ -29,6 +29,8 @@ Jest
 
 📮 - Quer falar comigo? Estou a disposição lá no LinkedIn: https://www.linkedin.com/in/jailsom-nogueira
 
+[Portfolio](https://jailsom-nogueira.github.io/Portfolio-Jay/)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
