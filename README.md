@@ -1,5 +1,11 @@
 ### Hello 👋
 
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/Jailsom-Nogueira/Jailsom-Nogueira" alt="Visitors badge" />
+   </a>
+</p>
+
 <img align="right" width="40%" src="https://media.giphy.com/media/piFGZ3Vxk2NHOAPgE3/giphy.gif" alt="Basecamp sky" />
 
 I'm Jay, Fullstack Web Dev from Brazil <img width="30" src="https://emojis.slackmojis.com/emojis/images/1597609842/10046/brazilian_fan_parrot.gif?1597609842" alt="emoji blink" />
@@ -58,6 +64,15 @@ I'm Jay, Fullstack Web Dev from Brazil <img width="30" src="https://emojis.slack
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1561512161/5893/figma.png?1561512161" title="Figma" alt="Figma"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450464730/190/photoshop.png?1450464730" title="Photoshop" alt="Photoshop"/></code>
 
+<br/>
 
-[Portfolio](https://jailsom-nogueira.github.io/Portfolio-Jay/)
-[Repositories](https://github.com/Jailsom-Nogueira?tab=repositories)
+## <img height="32" src="https://emojis.slackmojis.com/emojis/images/1603823074/11120/more.gif?1603823074" title="More!!!" alt="More"/> - More:
+
+- [Portfolio](https://jailsom-nogueira.github.io/Portfolio-Jay/)
+- [Repositories](https://github.com/Jailsom-Nogueira?tab=repositories)
+
+## Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jailsom-Nogueira&show_icons=true&theme=dracula" alt="Jailsom-Nogueira github stats" />
+</p>
