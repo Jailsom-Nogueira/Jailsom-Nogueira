@@ -25,9 +25,8 @@ I'm Jay, Fullstack Web Dev from Brazil <img width="30" src="https://emojis.slack
 **Front-end**
 
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1533426774/4425/nodejs.png?1533426774" title="Nodejs" alt="Nodejs"/></code>
-<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" title="React" alt="React"/>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" title="React" alt="React"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" title="Javascript" alt="Javascript"/></code>
-<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" title="Typescript" alt="Typescript"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" title="HTML" alt="HTML"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" title="CSS" alt="CSS"/></code>
 
@@ -38,7 +37,7 @@ I'm Jay, Fullstack Web Dev from Brazil <img width="30" src="https://emojis.slack
 
 **Database**
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="MySQL" alt="MySQL"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1533724346/4435/firebase.png?1533724346" title="Firebase" alt="Firebase"/></code>
 
 **DevOps**
@@ -49,11 +48,16 @@ I'm Jay, Fullstack Web Dev from Brazil <img width="30" src="https://emojis.slack
 **Tools**
 
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1532540801/4295/jest.png?1532540801" title="Jest" alt="Jest"/></code>
-<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
+<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" title="GitHub" alt="GitHub"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git" alt="Git"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1556829869/5674/gitbash.png?1556829869" title="Gitbash" alt="Gitbash"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/6686410/31217465-6adbbd18-a98d-11e7-9371-26d578182e9d.png" title="Insomnia" alt="Insomnia"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" title="Gitbash" alt="Postman"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" title="Postman" alt="Postman"/></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1531810038/4221/notion.jpg?1531810038" title="Notion" alt="Notion"/></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450448407/160/trello.png?1450448407" title="Trello" alt="Trello"/></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1561512161/5893/figma.png?1561512161" title="Figma" alt="Figma"/></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450464730/190/photoshop.png?1450464730" title="Photoshop" alt="Photoshop"/></code>
+
 
 [Portfolio](https://jailsom-nogueira.github.io/Portfolio-Jay/)
 [Repositories](https://github.com/Jailsom-Nogueira?tab=repositories)
