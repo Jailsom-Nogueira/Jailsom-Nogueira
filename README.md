@@ -71,7 +71,9 @@ I'm Jay, Fullstack Web Dev from Brazil <img width="30" src="https://emojis.slack
 - [Portfolio](https://jailsom-nogueira.github.io/Portfolio-Jay/)
 - [Repositories](https://github.com/Jailsom-Nogueira?tab=repositories)
 
-## GitHub Stats
+<br/>
+
+## <img height="32" src="https://emojis.slackmojis.com/emojis/images/1589323974/9036/stonks.png?1589323974" title="Stonks!!!" alt="More"/> - GitHub Stats
 
 [![Jay's github stats](https://github-readme-stats.vercel.app/api?username=Jailsom-Nogueira&count_private=true&show_icons=true&theme=vision-friendly-dark&hide=stars,issues)](https://github.com/Jailsom-Nogueira/github-readme-stats)
 
