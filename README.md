@@ -21,11 +21,11 @@ I'm Jay, Fullstack Web Dev from Brazil <img width="30" src="https://emojis.slack
 </a>
 
 <a href="mailto:jailsom.nogueira@gmail.com" target='_blank'>
-  <code><img title="My e-mail" alt="My e-mail" width="28" src="https://emojis.slackmojis.com/emojis/images/1534256857/4486/whatsapp.png?1534256857" /></code>
+  <code><img title="My e-mail" alt="My e-mail" width="28" src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" /></code>
 </a>
 
-<a href='https://wa.me/5527995792112?text=Olá%20Jay!%20Te%20achei%20pelo%20seu%20site.' target='_blank'>
-   <code><img title="My whatsapp" alt="My whatsapp" width="28" src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" /></code>
+<a href='https://wa.me/5527995792112?text=Olá%20Jay!%20Te%20achei%20pelo%20seu%20GitHub.' target='_blank'>
+   <code><img title="My whatsapp" alt="My whatsapp" width="28" src="https://emojis.slackmojis.com/emojis/images/1534256857/4486/whatsapp.png?1534256857" /></code>
 </a>
 
 <br/><br/>
