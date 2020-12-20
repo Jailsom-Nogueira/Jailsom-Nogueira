@@ -1,6 +1,6 @@
 ### Hello 👋
 
-<p align="right">
+<p align="left">
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/visits/Jailsom-Nogueira/Jailsom-Nogueira" alt="Visitors badge" />
    </a>
@@ -71,8 +71,8 @@ I'm Jay, Fullstack Web Dev from Brazil <img width="30" src="https://emojis.slack
 - [Portfolio](https://jailsom-nogueira.github.io/Portfolio-Jay/)
 - [Repositories](https://github.com/Jailsom-Nogueira?tab=repositories)
 
-## Github Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jailsom-Nogueira&show_icons=true&theme=dracula" alt="Jailsom-Nogueira github stats" />
-</p>
+[![Jay's github stats](https://github-readme-stats.vercel.app/api?username=Jailsom-Nogueira&count_private=true&show_icons=true&theme=vision-friendly-dark&hide=stars,issues)](https://github.com/Jailsom-Nogueira/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jailsom-Nogueira&count_private=true&theme=vision-friendly-dark&layout=compact)](https://github.com/Jailsom-Nogueira/github-readme-stats)
