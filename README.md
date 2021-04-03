@@ -10,9 +10,9 @@
 
 I'm Jay, Fullstack Web Dev from Brazil <img width="30" src="https://emojis.slackmojis.com/emojis/images/1597609842/10046/brazilian_fan_parrot.gif?1597609842" alt="emoji blink" />
 
-🔍 - Browsing my repositories you will find some academic projects, side projects that I create to exercise knowledge and test new tools and some contributions to the community.
+🔍 - Browsing my repositories you will find some academic projects, side projects that I create to exercise knowledge or test new tools and some contributions to the community.
 
-📚 - Since 2012 I have been working with all sorts of web projects, from facebook applications to automation with arduino, wordpress pages to mobile app. But it was in 2020 that, after participating in a +1000 hour full stack bootcamp, I expanded my horizons even more, now counting on back end expertise as well.
+📚 - Since 2012 I have been working with all sorts of web projects, from facebook applications to automation with arduino and from wordpress pages to mobile app. But it was in 2020 that, after participating in a +1000 hour full stack bootcamp, I expanded my horizons even more, now counting on back end expertise as well.
 
 ### Let's have a chat:
 
