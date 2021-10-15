@@ -42,6 +42,7 @@ I'm Jay, Fullstack Web Dev from Brazil <img width="30" src="https://emojis.slack
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" title="CSS" alt="CSS"/></code>
 
 **BFF**
+
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1566743763/6242/nestjs.png?1566743763" title="NestJs" alt="NestJs"/></code>
 
 **Back-end**
