@@ -37,8 +37,12 @@ I'm Jay, Fullstack Web Dev from Brazil <img width="30" src="https://emojis.slack
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1533426774/4425/nodejs.png?1533426774" title="Nodejs" alt="Nodejs"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" title="React" alt="React"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" title="Javascript" alt="Javascript"/></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" title="Typescript" alt="Typescript"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" title="HTML" alt="HTML"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" title="CSS" alt="CSS"/></code>
+
+**BFF**
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1566743763/6242/nestjs.png?1566743763" title="NestJs" alt="NestJs"/></code>
 
 **Back-end**
 
@@ -52,6 +56,7 @@ I'm Jay, Fullstack Web Dev from Brazil <img width="30" src="https://emojis.slack
 
 **DevOps**
 
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1508272207/3046/azure_2017.png?1508272207" title="Azure DevOps" alt="Azure DevOps"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1586879630/8606/aws_s3.png?1586879630" title="AWS S3" alt="AWS S3"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1465929657/511/heroku.png?1465929657" title="Heroku" alt="Heroku"/></code>
 
