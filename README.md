@@ -78,7 +78,6 @@ I'm Jay, Fullstack Web Dev from Brazil <img width="30" src="https://emojis.slack
 
 ## <img height="32" src="https://emojis.slackmojis.com/emojis/images/1603823074/11120/more.gif?1603823074" title="More!!!" alt="More"/> - More:
 
-- [Portfolio](https://jailsom-nogueira.github.io/Portfolio-Jay/)
 - [Repositories](https://github.com/Jailsom-Nogueira?tab=repositories)
 
 <br/>
