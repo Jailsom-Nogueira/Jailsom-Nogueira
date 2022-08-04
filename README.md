@@ -1,10 +1,8 @@
 ### Hello 👋
 
-<p align="left">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/Jailsom-Nogueira/Jailsom-Nogueira" alt="Visitors badge" />
-   </a>
-</p>
+[![Visits Badge](https://badges.strrl.dev/visits/Jailsom-Nogueira/Jailsom-Nogueira)](https://badges.strrl.dev)
+[![Years Badge](https://badges.strrl.dev/years/Jailsom-Nogueira)](https://badges.strrl.dev)
+[![Public Repos Badge](https://badges.strrl.dev/repos/Jailsom-Nogueira)](https://badges.strrl.dev)
 
 <img align="right" width="40%" src="https://media.giphy.com/media/piFGZ3Vxk2NHOAPgE3/giphy.gif" alt="Basecamp sky" />
 
